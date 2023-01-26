@@ -5,3 +5,6 @@ ejercicios: coolab (copia) y presentacion de power point
 
 ## dia 2
 ejercicios: tipos de operadores y condicionales
+
+## dia 3
+prophet, bucles y funciones
